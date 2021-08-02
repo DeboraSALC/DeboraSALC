@@ -1,8 +1,9 @@
 ### Oi Mundo! Eu sou a Débora Calasans 🚀🚀
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Front-end Dev
 - 🌱 Estudando Kotlin
+- 💻 VScode
 - 📫 Entre em contato comigo: meucontato.dsc@outlook.com.br
 - 👩 Pronomes: Ela/Dela
 

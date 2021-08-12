@@ -1,9 +1,10 @@
 ### Oi Mundo! Eu sou a Débora Calasans 🚀🚀
 
 
-- 🔭 Front-end Dev
-- 🌱 Estudando Kotlin
-- 💻 VScode
+- 🔭 Front-end Dev | Software Engineering Associate
+- 🎒 Accenture Brasil
+- 🌱 Estudando Kotlin | SOA
+- 💻 VScode | Jdev
 - 📫 Entre em contato comigo: meucontato.dsc@outlook.com.br
 - 👩 Pronomes: Ela/Dela
 

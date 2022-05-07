@@ -3,7 +3,7 @@
 
 - 🔭 Front-end Dev | Software Engineering Associate
 - 🎒 Accenture Brasil
-- 🌱 Estudando Kotlin | SOA
+- 🌱 Estudando Front-End | Atuando em SOA Oracle
 - 💻 VScode | Jdev
 - 📫 Entre em contato comigo: meucontato.dsc@outlook.com.br
 - 👩 Pronomes: Ela/Dela

@@ -1,4 +1,4 @@
-### Oi Mundo! Eu sou a Débora Calasans 🚀🚀
+### Oi Mundo! Me chamo Débora Calasans 🚀🚀
 
 
 - 🔭 Front-end Dev | Software Engineering Associate
